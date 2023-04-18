@@ -1,5 +1,7 @@
 ### Lockboxes
->
+> You have `n` number of locked boxes and each box numbered sequentially from `0` to `n - 1` and may contain keys to other boxes. 
+
+Write a method that determines if all boxes can be opened
 
 #### Environment:
 * Language: Python 3.4.3
